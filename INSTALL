@@ -1,0 +1,64 @@
+Prerequisites
+=============
+You need to have Clam AV version 0.99.1 or above applied with patch from 
+ClamWin  
+
+You need to have PWCT 1.9(Art) which you can obtain from 
+<http://doublesvsoop.sourceforge.net> or higher for building the GUI of the
+program.
+
+For building the Windows Executable from BAT scripts, You need to have Bat to Exe
+converter developed by Fatih Kodak which you can obtain from <www.f2ko.de>
+
+For building ClamSentinel Settings auto installer, You need to have 7-zip and 
+the modified SFX Module developed by Oleg.
+
+For creating the Installation Setup, You need to obtain the Inno Setup from
+<http://www.jrsoftware.orh/isdl.php>
+
+Installation
+============
+For easy installation, a binary package for Microsoft Windows has been uploaded
+to SourceForge download area of the project.
+
+If you wish to build the program from the source code, then read the following
+instructions.
+
+The first thing you need to build is the Clam AV antivirus using GCC.
+Read more about compiling Clam AV Engine on <https://www.clamav.net>
+
+Then build the executable of MicroStar Anti-Virus from the BAT script files using
+Bat to Exe converter. Bat to exe is pretty straight forward application
+and you can easily use it to make windows executable files from BAT scripts.
+
+Then the next step is to build the GUI of the program. Compile the .ssf file 
+from the folder GUI using PWCT.
+
+Next step is to configure ClamSentinel to work with MicroStar Anti-Virus.
+ClamSentinel depends on a .ini file located at %APPDATA%\Roaming\ClamSentinel
+The file is located at the ini folder in the source tree and the file is 
+commended wery well. You can easily edit the file according to your needs.
+ClamSentinel also depends on ClamWin.conf which gives ClamSentinel the 
+location of Clam AV engine and anti-virus database.
+
+To create a setup program, open the setup folder in the source tree
+and edit the setup_x86.iss file using Inno Setup.
+(You can use ISTool or any other similar softwares to edit the file
+easily)
+
+For more detailed building information, email me at <adithmurali2001@gmail.com>
+
+Written by 
+=========
+
+Adith K. Murali <adithmurali2001@gmail.com>
+
+
+
+
+
+
+
+
+
+
