@@ -1,0 +1,26 @@
+MicroStar Anti-Virus Authors
+----------------------------
+
+Developer
+----------
+
+Adith K Murali <adithmurali2001@gmail.com>
+
+Special Thanks
+--------------
+
+Athul M Nair <athulmadhu75@gmail.com>
+Ebin Varghese <EBINVARGHESEZXC@gmail.com>
+Karthikeyan Biju 
+Yadhu Krishna Raju <jayanthiraju2001@gmail.com>
+Vyshakh P Namboothiri <vyshakhpn07@gmail.com>
+Vishnu Prakash K P <vishnuprakashkp66493@gmail.com>
+Revath Chandran
+Razin Iqubal
+Fatih Kodak
+Ashwin A U
+
+Copyright(c) 2017 MicroStar Software Lab.
+All rights reserved.
+Website : microstarlab.webs.com
+

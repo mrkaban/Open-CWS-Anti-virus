@@ -1,0 +1,9 @@
+MicroStar Anti-Virus
+********************
+Copyright(c) 2015-17 MicroStar Software Lab.
+--------------------------------------------
+***ALL FILES SHOULD BE UNMODIFIED FOR THE PROPER WORKING
+OF MICROSTAR ANTI-VIRUS***
+
+The real time protection module(Clam Sentinel) depends on ClamWin configuration files.
+The files used in real-time protection module are distributed under GNU GPL.

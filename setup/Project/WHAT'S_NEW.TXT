@@ -1,0 +1,42 @@
+**************************************************
+**    MicroStar Anti-Virus v0.6.3.1             **    
+**                                              **
+**  Copyright (c) 2017 MicroStar Software Lab   **
+**************************************************
+WHAT'S_NEW.TXT
+``````````````
+Note: Only important releases are listed here.
+
+PLEASE READ: THE AUTOMATIC DATABASE UPDATE FEATURE
+IS CURRENTLY NOT INCLUDED IN THIS BUILD DUE TO A
+BUG CAUSED BY THE PROGRAM.
+
+* : Improved/modified
++ : Newly added
+- : Removed
+
+v0.6.3.1
+````````
++) Added new tool to scan system memory.
+*) Improved GUI.
+*) Fixed bugs in scan engine.
+-) Removed the dual scan engine.
+
+v0.6.0.1
+````````
++) Added Quick Scan, Full OS Scan.
++) Added safe file format for detected threats.
+*) Improved scan engine.
+*) improved the overall structure of the program.
+
+v0.5.0.0
+````````
++) Added all features to a single window.
++) Added dual scan engine mechanism.
+*) Minor bug fixes in the scan engine.
+*) Fixed the updater crashing bug.
+-) Removed a problem causing module.
+
+
+
+
