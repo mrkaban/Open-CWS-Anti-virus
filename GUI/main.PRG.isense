@@ -1,0 +1,88 @@
+Type: Window
+Parent: win1
+Type: Image
+image1
+Type: Button
+btn1
+Type: Frame
+Frame1
+Type: Frame
+Frame2
+Type: Label
+lbl1
+Type: Label
+lbl2
+Type: Label
+lbl3
+Type: Label
+lbl4
+Type: Label
+lbl5
+Type: Label
+lbl6
+Type: Button
+btn2
+Type: Button
+btn3
+Type: Button
+btn4
+Type: Button
+btn5
+Type: Button
+btn6
+END:
+closemain
+quickscan
+fullscan
+memoryscan
+selectivescan
+Type: Window
+Parent: win2
+Type: Label
+lbl7
+Type: Button
+btn7
+Type: Button
+btn8
+END:
+pressscanfolder
+pressscanfile
+updater
+Type: Window
+Parent: win3
+Type: Label
+lbl8
+Type: Label
+lbl9
+Type: Button
+btn9
+END:
+clickupdate
+about
+Type: Window
+Parent: win4
+Type: Label
+lbl10
+Type: Label
+lbl11
+Type: Editbox
+edit1
+Type: Label
+lbl12
+Type: Label
+lbl13
+Type: Label
+lbl14
+Type: HyperLink
+Hyper1
+Type: Button
+btn10
+Type: Label
+lbl15
+END:
+print
+closeabout
+submitsample
+visithomepage
+contactus
+openquarantine
